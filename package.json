@@ -1,0 +1,22 @@
+{
+    "name": "labjs",
+    "title": "LABjs",
+    "description": "LABjs is a dynamic script loader intended to replace the use of the ugly, non-performant <script> tag with a flexible and performance-optimized alternative API.",
+    "version": "2.0.3",
+    "main": "LAB.min.js",
+    "homepage": "http://labjs.com/",
+    "author": {
+        "name": "Kyle Simpson",
+        "url": "https://github.com/getify"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/getify/LABjs"
+    },
+    "keywords": [],
+    "bugs": {},
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {}
+}
